@@ -5,6 +5,7 @@ import 'package:flutter_login/authentication/bloc/authentication_bloc.dart';
 import 'package:flutter_login/splash/splash.dart';
 import 'package:user_repository/user_repository.dart';
 
+import 'home/view/home_page.dart';
 import 'login/view/login_page.dart';
 
 class App extends StatefulWidget {
